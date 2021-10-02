@@ -10,3 +10,5 @@ The following labs:
 4. Finding the closest pair of points using Divide and Conquer
 5. Optimal alignment of strings using Dynamic Programming
 6. Using Ford-Fulkerson algorithm to calculate the maximum flow in a graph (Network flow)
+
+The data for the tests are found on course website - too big to upload on repo
